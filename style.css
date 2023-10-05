@@ -92,6 +92,11 @@ p {
     text-align: center;
 }
 
+div > iframe {
+    width: 90%;
+    height: 315px;
+}
+
 .info {
     background-color: #ABD1B5;
     border-radius: 5px;
